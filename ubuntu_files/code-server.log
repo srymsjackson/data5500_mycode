@@ -1,0 +1,26 @@
+[2026-01-14T16:42:00.204Z] info  code-server 4.108.0 9233f0438330450deb48a0b957820b5f0c7f1e91
+[2026-01-14T16:42:00.206Z] info  Using user-data-dir /root/.local/share/code-server
+[2026-01-14T16:42:00.245Z] info  Using config file /home/ubuntu/.config/code-server/config.yaml
+[2026-01-14T16:42:00.245Z] info  HTTPS server listening on https://0.0.0.0/
+[2026-01-14T16:42:00.245Z] info    - Authentication is enabled
+[2026-01-14T16:42:00.245Z] info      - Using password from /home/ubuntu/.config/code-server/config.yaml
+[2026-01-14T16:42:00.245Z] info    - Using certificate for HTTPS: /home/ubuntu/.config/code-server/selfsigned.crt
+[2026-01-14T16:42:00.245Z] info  Session server listening on /root/.local/share/code-server/code-server-ipc.sock
+[16:43:34] 
+
+
+
+
+[reconnection-grace-time] No CLI argument provided, using default: 10800000ms (10800s)
+[16:43:35] Extension host agent started.
+[16:43:35] Started initializing default profile extensions in extensions installation folder. file:///root/.local/share/code-server/extensions
+[16:43:35] Completed initializing default profile extensions in extensions installation folder. file:///root/.local/share/code-server/extensions
+Failed login attempt {"remoteAddress":"144.39.109.98","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36","timestamp":1768409024}
+File not found: /var/app/code-server/lib/vscode/node_modules/vsda/rust/web/vsda_bg.wasm
+File not found: /var/app/code-server/lib/vscode/node_modules/vsda/rust/web/vsda.js
+[16:43:53] [<unknown>][9468700c][ManagementConnection] New connection established.
+[16:43:55] [<unknown>][7c71f50c][ExtensionHostConnection] New connection established.
+[16:43:56] [<unknown>][7c71f50c][ExtensionHostConnection] <14614> Launched Extension Host Process.
+[16:43:57] [<unknown>][7c71f50c][ExtensionHostConnection] <14614> [reconnection-grace-time] Extension host: read VSCODE_RECONNECTION_GRACE_TIME=10800000ms (10800s)
+
+File not found: /var/app/code-server/lib/vscode/node_modules/@xterm/addon-ligatures/lib/addon-ligatures.js
